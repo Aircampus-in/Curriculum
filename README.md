@@ -330,3 +330,18 @@ TOPICS
 
 PROJECTS
 - Shopify Clone
+
+### OPEN SOURCE CONTRIBUTION
+TOPICS
+- Documentation
+
+- It's a lot more fun
+
+- Fork the project repo & cloning it
+
+- Create new branch and commit changes
+
+- Push changes and begin pull request
+
+- Review, discuss and repeat
+
