@@ -12,13 +12,6 @@ You will also learn common Linux basic commands and concepts that are important 
 
 
 TOPICS
-- Introduction to Unix & Shell Commands
-
-- Introduction to Git
-
-- Branching and Merging in Git
-
-- Collaborating with Github
 
 ### HTML & CSS FUNDAMENTALS
 Get started with Web development by getting familiar with HTML, CSS to build basic web applications which will be responsive.
@@ -39,17 +32,7 @@ TOPICS
 - Responsive Web Design
 
 PROJECTS
-- Building Resume in HTML & CSS
-
-- Local Gym Website
-
-- Web Developer Conference Website
-
-- Insurance Company Website
-
-- Blog
-
-- Gallery
+- Coming Soon
 
 ### JAVASCRIPT FUNDAMENTALS 
 
@@ -71,19 +54,7 @@ TOPICS
 - DOM and Events
 
 PROJECTS
-- Implement array methods
-
-- Calculator
-
-- Chrome extension
-
-- Memory Game
-
-- TODO app
-
-- People of GOT
-
-- Login and signup modal
+- Coming Soon
 
 ### ADVANCED CSS
 We will explore Sass, and generate CSS code from it, where we can design css code faster and flexible in a reusable manner.
@@ -98,13 +69,7 @@ TOPICS
 - CSS Grid
 
 PROJECTS
-- SaaS - Admin Panel Layouts
-
-- Portfolio Design
-
-- Browser Extension Design
-
-- Final Project
+- Coming Soon
 
 ### ADVANCED JAVASCRIPT
 We will work with more modern JavaScript or ES6+ features. At this time we will explore more parts of the web to build more complex projects and understand different patterns
@@ -127,15 +92,7 @@ TOPICS
 - Error Handling & Writing Tests
 
 PROJECTS
-- 2D Breakout Game
-
-- Quiz app using OOP
-
-- Implement fetch
-
-- Reddit clone
-
-- Github finder
+- Coming Soon
 
 ### NODE.JS
 TOPICS
@@ -154,11 +111,7 @@ TOPICS
 - Package Manager and External modules
 
 PROJECTS
-- Dynamic Portolio App
-
-- Building CLI in Node.js
-
-- FileSystem CRUD
+- Coming Soon
 
 ### MONGODB
 Learn more advanced patterns of MongoDB like indexing and managing sessions, transactions and other advanced queries to build more robust backend.
@@ -180,7 +133,7 @@ TOPICS
 - Aggregations
 
 PROJECTS
-- Twitter Database Model
+- Coming Soon
 
 ### SERVER SIDE APPS WITH EXPRESS.JS & MONGODB
 TOPICS
@@ -203,11 +156,7 @@ TOPICS
 - Session Based Authentication & Authorization
 
 PROJECTS
-- Blog App
-
-- Shopping Cart
-
-- Book Store
+- Coming Soon
 
 ### API & AUTH
 TOPICS
@@ -220,11 +169,7 @@ TOPICS
 - API Versioning, Authentication & Authorization
 
 PROJECTS
-- Medium Clone API
-
-- Shopping Cart
-
-- Book Store
+- Coming Soon
 
 ### REACT.JS FUNDAMENTALS
 We work with basics of Webpack and understand the evolution of web. We will learn how to setup with Webpack as well React. We will also look at npm packages.
@@ -248,11 +193,7 @@ TOPICS
 - Type Checking with PropTypes
 
 PROJECTS
-- ToDo App
-
-- News App
-
-- Tic tac toe
+- Coming Soon
 
 ### ADVANCED REACT.JS
 We will work with React and advanced parts of react to build larger applications to manage global state, latest patterns like Hooks and libraries of the ecosystem along with deploying projects.
@@ -280,13 +221,7 @@ TOPICS
 - React Hooks
 
 PROJECTS
-- Medium Clone
-
-- Redux Implementation
-
-- Writing Custom Redux Middleware
-
-- Instagram Clone
+- Coming Soon
 
 ### ADVANCED SERVER SIDE APPLICATIONS
 TOPICS
@@ -320,16 +255,16 @@ TOPICS
 - Sorting and Searches
 
 EXERCISES
-- Solve 100s of problems
+- Solve 200+ Leedcode problems
 
 ### CAPSTONE
 Work on collaborative projects to build a large system that explores all concepts that are important for understanding real world applications. We will revisit all concepts for revising in a structured manner and have pair programming sessions to improve and be prepared for interviews and final evaluations.
 
 TOPICS
-- Putting Everything Together
+- Summarize the learning 
 
 PROJECTS
-- Shopify Clone
+- Coming Soon
 
 ### OPEN SOURCE CONTRIBUTION
 TOPICS
