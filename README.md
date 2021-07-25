@@ -255,7 +255,7 @@ TOPICS
 - Sorting and Searches
 
 EXERCISES
-- Solve 200+ Leedcode problems
+- Solve 200+ Leetcode problems
 
 ### CAPSTONE
 Work on collaborative projects to build a large system that explores all concepts that are important for understanding real world applications. We will revisit all concepts for revising in a structured manner and have pair programming sessions to improve and be prepared for interviews and final evaluations.
