@@ -1,12 +1,17 @@
 # ***Curriculum***
 
-## Javascript
+## Git & GitHub
 
-You will learn all the basics of programming like- variable,conditional statements, loops etc to build a strong foundation of programming knowledge.
+You will learn repositories (forking and cloning and the difference between them), commits, branching & merging, issues & rull requests (GitHub), and Git commands (with common flags)
 
 ## HTML and CSS
 
-You will learn about all the basics of HTML and CSS and learn to build a basic layout of a website.
+You will learn about all about HTML and CSS and learn to build a basic layout of a website. In this module you will build different layout of website to use the designs in JavaScript module to make it functional
+
+## JavaScript
+
+You will learn all the concepts of programming like - variable, conditional statements, loops etc to build a strong foundation of programming knowledge. In this module you will also build small projects to understand implementation of programming concepts. 
+
 
 ## Advanced JavaScript
 
