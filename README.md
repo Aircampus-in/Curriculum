@@ -30,7 +30,7 @@ You will learn some basic concepts of react- component , prop, state etc to form
 In advance react dive deep into React to learn some advanced concepts like redux and hooks to make a website robust.
 
 ## Node.js and Express.js
-You will learn the basics of Node.js - async operations, async IO, handling HTTP requests, routing etc and make some project
+You will learn full Node.js - async operations, async IO, handling HTTP requests, routing etc and make some project
 
 ## Database
 You will learn how to perform CRUD operations in Database and connecting database you will work on a full capstone project.
