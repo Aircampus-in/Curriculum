@@ -34,3 +34,7 @@ You will learn full Node.js - async operations, async IO, handling HTTP requests
 
 ## Database
 You will learn how to perform CRUD operations in Database and connecting database you will work on a full capstone project.
+
+## Data Structures & Algorithms
+Level 1 & level 2 (level 2 is optional) including Graph, Linked List, Dynamic Programming, Sorting And Searching, Tree / Binary Search Tree, Number Theory, BIT Manipulation, String / Array. And 100+ DSA questions 
+
