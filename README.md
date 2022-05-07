@@ -4,12 +4,19 @@
 ## About This course
 
 This whole course is divided into 3 modules. <br>
-1st modules contains HTML,CSS and javascript, git: <br>
+### 1st modules 
+ contains HTML,CSS and javascript, git: <br>
  Number of teaching hours: 105 + 40hrs(practice at end) <br>
-2nd module contains React : <br>
+ 
+### 2nd module 
+ contains React : <br>
  36 Teaching hours + 24 Practice hours at end <br>
-3rd Module is backend - Node + Database <br>
+ 
+### 3rd Module :
+is backend - Node + Database <br>
  33 Teaching hours + 27 Practice hours at end. <br>
+
+### DSA
 Basics of Datastructure is taught with 1st Module and advance DSA from Module 2.  <br>
 
 ##Link of our session wise Plan: 
